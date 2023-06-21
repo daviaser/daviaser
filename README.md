@@ -8,5 +8,5 @@ I am currently a first year Computer Science major whose career goal is to be a 
 - 🔭 I’m currently working on projects to strengthen my coding skills and develop new ones.
 - 🌱 I’m currently learning JavaScript, PHP, C++, API design techniques and Cloud computing
 - 👯 I’m looking to collaborate with developers and software structured businesses/companies by working on projects possibly through interships so that I can gain real world working experiences to sharpen and acquire new and existing skills needed to get my desired carrer path.
-- ⚡ Fun fact: I love travelling and learning about different cultures. I would love to visit every country in the world some day!!
+- ⚡ Fun fact: I love travelling and learning about different cultures. I would love to visit every country in the world someday!!
 
